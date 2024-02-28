@@ -1,4 +1,4 @@
-# navBar Responsive
+# navBar Responsive e icons SVG
 
 - navBar pantalla completa.
 
@@ -11,3 +11,5 @@
 - navBar responsive menu open.
 
 ![](https://github.com/k-tw0/NavBarCSS/blob/main/Screenshot%202024-02-28%20182844.png)
+
+- Link icons: https://boxicons.com/?query=menu
